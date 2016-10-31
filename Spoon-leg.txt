@@ -1,0 +1,2 @@
+## first file to add, than edit, than stage again
+# first edit this line, done
